@@ -1,0 +1,7 @@
+.recipe-panel{padding:20px 0;margin:18px 0;border-top:1px solid var(--line,#dce2e8);border-bottom:1px solid var(--line,#dce2e8)}
+.recipe-panel p{margin:12px 0;line-height:1.55}.recipe-heading{display:flex;align-items:center;justify-content:space-between;gap:14px;flex-wrap:wrap}.recipe-heading h3{margin:0}
+.recipe-steps{margin-top:14px}.recipe-steps details{border:1px solid var(--line,#dce2e8);border-radius:8px;padding:0;margin:10px 0;overflow:hidden}
+.recipe-steps summary{padding:13px 16px;cursor:pointer;font-weight:600}.recipe-choice{font-weight:400;color:var(--muted,#536579);margin-left:12px}
+.recipe-step{padding:3px 16px 16px;background:#f8fafc}.recipe-step select{width:100%;max-width:500px}.recipe-direction{border-left:3px solid #94b7d7;padding-left:12px}.recipe-summary{font-weight:600}.recipe-context{font-size:14px;color:var(--muted,#536579)}
+.analysis-readout{padding:12px 14px;background:#eef5fa;border-radius:7px;margin-bottom:16px}.analysis-stage{max-width:480px;margin:14px 0}.recipe-next{margin-top:4px}.temporal-comparisons{font-size:14px;overflow-wrap:anywhere}
+@media(max-width:600px){.recipe-choice{display:block;margin:5px 0 0}.recipe-panel{padding:16px 0}.recipe-heading .badge{font-size:12px}}

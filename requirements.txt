@@ -1,0 +1,8 @@
+av==18.1.0
+jupyterlab==4.6.3
+numpy==2.5.2
+Pillow==12.3.0
+safetensors==0.8.0
+torch==2.14.0
+torchvision==0.29.0
+transformers==5.17.0
