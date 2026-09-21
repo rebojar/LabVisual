@@ -16,7 +16,7 @@ O projeto não consegue proteger os dados contra alguém que já controle o comp
 
 Fechar a página não encerra os serviços nem apaga as cópias, resultados ou possíveis registros temporários do navegador e do sistema operacional. Em um computador compartilhado, encerre os serviços e remova conscientemente as pastas do experimento quando não quiser preservá-las. 
 
-> A demonstração estática publicada no [Rebojar](https://rebojar.github.io/) ([repositório da página](https://github.com/rebojar/rebojar.github.io)) é diferente: ela usa apenas exemplos e resultados previamente selecionados, não aceita arquivos da pessoa visitante e não cria essas pastas no computador dela.
+> A [demonstração estática](https://rebojar.github.io/demonstracao-labvisual/) publicada no [Rebojar](https://rebojar.github.io/) ([repositório da página](https://github.com/rebojar/rebojar.github.io)) é diferente: ela usa apenas exemplos e resultados previamente selecionados, não aceita arquivos da pessoa visitante e não cria essas pastas no computador dela.
 
 Arquivos de registro exportados podem incluir nomes, caminhos, hashes, horários e observações de um experimento. Revise-os antes de compartilhar. Um vetor ou gráfico derivado de uma imagem também é um resultado desse experimento; não deve entrar automaticamente no pacote público.
 
