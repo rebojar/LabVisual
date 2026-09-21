@@ -29,6 +29,7 @@ As entradas e saídas de experimentos são produzidas localmente em:
 - `batches/`,
 - `videos/`
 - e `imports/`.
+
 Essas pastas não fazem parte do pacote. Este primeiro pacote de código também não inclui pesos, arquivos de imagem ou vídeo, resultados de experimentos, ambiente Python nem configuração local. Os arquivos destinados à demonstração pública do Rebojar formam uma seleção separada, com revisão própria.
 
 Ao abrir o caderno, a bancada cria um **token temporário do Jupyter**: uma senha aleatória incluída na URL para restringir o acesso àquela execução local. Não é um token do modelo nem do Hugging Face, não representa os tokens visuais produzidos pelo encoder e não fica gravado neste repositório.
