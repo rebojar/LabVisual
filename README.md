@@ -12,6 +12,14 @@ Esta versão usa um checkpoint específico. A pasta dos pesos pode variar entre 
 
 **Quer instalar e usar a bancada? [Vá direto para “Comece por aqui”.](#comece-por-aqui)**
 
+**Quer conhecer antes de instalar? [Abra a demonstração pública no Rebojar.](https://rebojar.github.io/demonstracao-labvisual/)**
+
+## Demonstração pública · interface sugerida
+
+A [demonstração pública](https://rebojar.github.io/demonstracao-labvisual/) apresenta uma execução sintética pré-calculada em uma interface estática e interativa. Ela não executa o modelo, não recebe arquivos, não inicia um servidor local e não acessa o computador de quem a visita.
+
+Essa página é uma **interface pública sugerida** para apresentar alguns resultados da bancada. Não é um módulo obrigatório do LabVisual, não substitui a bancada instalável e não reproduz todos os seus recursos. O [código da demonstração](https://github.com/rebojar/rebojar.github.io/tree/main/demonstracao-labvisual) fica no repositório do Rebojar e pode servir como referência para outras adaptações visuais.
+
 ## O que pertence a esta pasta
 
 O código da interface, do servidor local, do extrator dos pesos visuais e do caderno `Experimento_visual.ipynb`, acompanhado dos guias e testes. Esse caderno combina explicações com células de código Python executáveis e abre no [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/), uma aplicação local acessada pelo navegador. A instalação descrita em [INSTALL.md](INSTALL.md) instala o JupyterLab no ambiente do projeto; não é necessário tê-lo instalado previamente.
