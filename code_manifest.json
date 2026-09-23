@@ -4,7 +4,7 @@
     ".gitignore": "89f5925e55d25789b28477550d9d29e6d624f2108e4d1dacadb6ca937b767124",
     ".github/FUNDING.yml": "1feaca42dcd56b15cac4837ea59d579b1b73cfa8f4d51ad3a3acd80bcbf9364e",
     "Abrir_bancada.cmd": "68839f75604d755a8c3a67fe1b9e888b34a8e8787458b5f559b23c357ef85d47",
-    "README.md": "5c126ff7641891ba6438470b023a86ab598a770895ec26acba01653de8db5174",
+    "README.md": "f90cf2210e29c26f1e82c4cdcb9463fea4ef3efa4af33133c07c0cb779aee18d",
     "GUIA_DE_USO.md": "16420b3ef2f6bba7b173a01cf1317a1c7f722c9c13e5c93d08fb41a33ff3be5d",
     "Experimento_visual.ipynb": "727645f6f8a533791c997adf253dcd0f7c28c75ff0451e9a11ef3fc0386052f6",
     "requirements.txt": "8391535311785350067ca5d64865de8380db9baee78f6fef6443e46380fe4336",
@@ -36,7 +36,7 @@
     "VALIDATION.md": "2643ab738d0304ca5a044f0f0eef1bfbf9c188409aed08db06e13372ff4c38e4",
     "THIRD_PARTY_NOTICES.md": "76488aa6c93d8f06c1185e86da8a56c53d3a68e71320e802c56de5c50b25cc18",
     "CONTRIBUTING.md": "5ade107426c9309efd0744a54ce7b0b7fae0eaa5863ac1839e5b7fee082b5f10",
-    "SECURITY.md": "450a975d84e843ff1880a3a5e93810555ce5be85f5f484555cc100acb574288b",
+    "SECURITY.md": "2c0bab7dd886ee5e4a11df424999af97bfd0a130a36dd4f3d3e9e4308858da2c",
     "tests/test_publication_gate.py": "d8bddc7766fe5c33f8b30594f14e6a4ec4ba9b23cd961c698cec1efa7a3380ce",
     "LICENSE": "0d96a4ff68ad6d4b6f1f30f713b18d5184912ba8dd389f86aa7710db079abcb0"
   }
